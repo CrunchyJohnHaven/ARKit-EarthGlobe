@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ARKitGlobe
+//  ARKitGLobe
 //
 //  Created by john bradley on 3/31/18.
 //  Copyright © 2018 john. All rights reserved.

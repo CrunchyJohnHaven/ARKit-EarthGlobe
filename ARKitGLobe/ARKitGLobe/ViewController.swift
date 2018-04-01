@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  ARKitGlobe
+//  ARKitGLobe
 //
 //  Created by john bradley on 3/31/18.
 //  Copyright © 2018 john. All rights reserved.
@@ -29,7 +29,10 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // Set the scene to the view
         sceneView.scene = scene
     }
-    
+    func createGlobe(at position: SCNVector3) -> SCNNode {
+        let sphere = SCNSphere(radius: 0.3)
+        
+    }
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         

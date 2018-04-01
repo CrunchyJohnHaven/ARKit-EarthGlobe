@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ARKitGlobe.xcodeproj">
+      location = "self:ARKitGLobe.xcodeproj">
    </FileRef>
 </Workspace>
